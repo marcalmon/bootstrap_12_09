@@ -1,0 +1,48 @@
+.amarillo{
+	background-color: yellow;
+}
+
+.celeste{
+	background-color: lightblue;
+}
+
+.verde{
+	background-color: green;
+}
+
+.fugsia{
+	background-color: #F70A7A;
+}
+
+.rojo{
+	background-color: red;
+}
+
+.azul{
+	background-color: blue;
+}
+
+.blanco{
+	background-color: white;
+}
+
+.negro{
+	background-color: black;
+}
+
+.gradiente{
+	height: 150px;
+	background: linear-gradient(to right, white, black);
+}
+
+.alto1{
+	height: 400px;
+}
+
+.alto2{
+	height: 100px;
+}
+
+.a{
+	height: 150px;
+}
