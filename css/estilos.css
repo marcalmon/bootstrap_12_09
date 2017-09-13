@@ -1,0 +1,18 @@
+.caja{
+	border: 2px solid black;
+	padding: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+
+#verde{
+	background-color: #14ED03;
+}
+
+#amarillo{
+	background-color: #FAE823;
+}
+
+#rosa{
+	background-color: #EF5CC4;
+}
